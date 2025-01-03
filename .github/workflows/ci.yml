@@ -37,6 +37,7 @@ jobs:
         run: |
           cat > idoc.yml << EOF
           site: "DayBar {{version:${{ steps.create_tag.outputs.version }}}}"
+          description: DayBar is an app that displays local date, reminders, and events in the menu bar. By clicking on DayBar in the menu bar, you can view your calendar, events, and reminders, which can also be synchronized with Apple Calendar
           keywords: Calendar,Menu Bar,Reminders,Events,Lunar,Status Bar,Schedule Management,Apple Calendar Sync
           favicon: assets/logo.png
           logo: ./assets/logo.png
