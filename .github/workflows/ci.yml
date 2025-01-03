@@ -52,6 +52,8 @@ jobs:
           sideEffectFiles:
             - README.md
             - README.zh.md
+            - feedback.md
+            - feedback.zh.md
           footer: |
             <a href="https://wangchujiang.com/#/app" target="_blank">App</a> • 
             <a href="https://wangchujiang.com/#/projects" target="_blank">Projects</a> • 
