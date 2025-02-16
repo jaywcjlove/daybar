@@ -3,7 +3,7 @@
   <br />
   <img src="./assets/logo.png" width="160" height="160">
   <h1>
-    DayBar 农历吧
+    DayBar 日历吧
   </h1>
   <!--rehype:style=border: 0;-->
   <p>
@@ -24,7 +24,7 @@ DayBar 是一款可以在菜单栏展示本地日期和提醒事件的应用。�
 
 ### 主要功能
 
-- 显示中国农历
+- 显示中国`农历`
 - 显示当前周数
 - 事件指示器
 - 双击快速进入日历
