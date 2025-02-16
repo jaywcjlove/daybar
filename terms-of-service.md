@@ -3,47 +3,45 @@
 </p>
 <!--rehype:style=float: right; bottom: -36px; position: relative;-->
 
-Terms of Service
+DayBar Terms of Service
 ===
 
-Welcome to `DayBar`! By using our application, you agree to the following terms of service (“Terms”). Please read these Terms carefully before using DayBar. These Terms apply to all users of DayBar.
+Welcome to DayBar! These Terms of Service (hereinafter referred to as "Terms") govern your use of the DayBar application (hereinafter referred to as "App"). Please read these Terms carefully before using the App. By using the App, you agree to comply with these Terms.
 
-## Acceptance of Terms
+## Service Overview
 
-By downloading, accessing, or using DayBar (“the App”), you agree to comply with and be bound by these Terms. If you do not agree to these Terms, you may not use the App.
+DayBar is an application that displays local dates and reminder events in the menu bar. Users can view calendars, calendar events, and reminders, and it supports synchronization with Apple Calendar.
 
-## Intellectual Property
+Some features (such as the number of calendar lists and reminder events) are limited, and users need to purchase to unlock the full functionality.
 
-The App and its content, including but not limited to all icons, logos, designs, and other intellectual property, are the exclusive property of DayBar and its development team. You are granted a limited, non-exclusive, non-transferable license to use the App for personal, non-commercial purposes only.
+## Paid Services
+
+- The App offers in-app purchases to unlock the full functionality.
+- Payment will be deducted from the App Store account upon confirmation of the purchase.
+- After purchase, the unlocked features apply only to the current Apple ID and are not transferable between accounts.
 
 ## User Responsibilities
 
-You are solely responsible for your use of the App and must ensure that your usage complies with all applicable laws and regulations. You are responsible for maintaining the confidentiality of the data on your device and for preventing unauthorized use.
+- You agree to use DayBar for lawful purposes only and not for any illegal or unauthorized use.
+- You are fully responsible for your activities within the App and their outcomes.
 
-## Privacy
+## Privacy Protection
 
-We take your privacy seriously. For detailed information on how we collect, use, and protect your personal information, please refer to our [Privacy Policy](./privacy-policy.md).
+DayBar respects your privacy and does not collect, store, or share your personal calendar and reminder event data. For more privacy-related information, please refer to our "Privacy Policy."
 
-## App Modifications
+## Disclaimer
 
-We reserve the right to modify, update, or discontinue the App at any time without notice. We will not be liable to you or any third party for any changes, suspension, or discontinuation of the App.
-
-## Limitation of Liability
-
-To the maximum extent permitted by law, DayBar and its developers shall not be liable for any damages arising from or in connection with your use of the App. This includes but is not limited to loss of data, system failures, or business interruptions.
-
-## Governing Law
-
-These Terms shall be governed by and construed in accordance with the laws of your jurisdiction, without regard to its conflict of law principles.
+- The App is provided "as is" and does not guarantee error-free operation or full compliance with your needs.
+- To the extent permitted by applicable law, the developers are not responsible for any loss or damage caused by the use of DayBar.
 
 ## Changes to the Terms
 
-We reserve the right to modify these Terms at any time. If we make significant changes to the Terms, we will notify you within the App or via our website. Your continued use of the App after such changes take effect constitutes your acceptance of the new Terms.
+We may update these Terms periodically, and the updated Terms will be posted within the App or on the official website. Continued use of the App indicates your acceptance of the modified Terms.
 
 ## Contact Us
 
-If you have any questions about our Privacy Policy or Terms of Service, or if you would like to provide feedback, please contact us through the “About Us” page in the App. We are committed to protecting your personal information, and we will not disclose your user data to third parties without your consent.
+If you have any questions about our Privacy Policy or Terms of Service, or would like to provide feedback or suggestions, please contact us via the "About Us" page within the App. We are committed to protecting your personal information and will not disclose your user data to third parties without your consent.
 
-You can also contact us at **kennyiseeyou@gmail.com**, and we will respond to your inquiries as soon as possible.
+You can also reach us at **kennyiseeyou@gmail.com**, and we will respond to your inquiries as soon as possible.
 
 These Terms of Service were last updated on February 16, 2025.
