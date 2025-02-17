@@ -18,14 +18,17 @@
   </p>
 </div>
 
-![DayBar 1](./assets/screenshots-1.png)
+![DayBar 1](./assets/screenshots-1.jpg)
+![DayBar 2](./assets/screenshots-2.jpg)
+![DayBar 3](./assets/screenshots-3.jpg)
 
-DayBar is an app that displays local date reminders and events in the menu bar. By clicking on the DayBar in the menu bar, you can view your calendar, calendar events, and reminders, which can also be synchronized with Apple Calendar events. The app is designed to consolidate calendar and reminder functions in the status bar menu, making it easy to manage and view them.
+DayBar is an application that displays the local date and reminder events in the menu bar. Click on DayBar in the menu bar to view the calendar, calendar events, and reminders, and it supports synchronization with Apple Calendar. It integrates calendar and reminder functions into the status bar menu for easy management and viewing, while turning reminders into simple and beautiful to-do items.
 
 ### Features
 
-- Chinese lunar calendar display  
-- Week number display  
+- Display Chinese lunar calendar  
+- Display current week number  
 - Event indicator  
-- Double-click to quickly access the calendar  
-- Display all events for the current month  
+- Double-click to quickly open Calendar and Reminders  
+- Show all events of the current month  
+- Reminder for TODO tasks  
