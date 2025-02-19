@@ -5,6 +5,24 @@ Changelog
 <img alt="DayBar AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.1.0](https://github.com/jaywcjlove/daybar/releases/tag/v2.1.0)
+
+- Fix: Fix the issue of opening the Calendar app.
+- Style: Modify time formatting for calendar event list.
+- Style: Modify calendar selection style.
+- Feat: Add "All" category.
+- Feat: Add version check feature.
+- Feat: Add open main window menu. 
+
+---
+
+- 样式： 修改日历事件列表的时间格式。
+- 样式： 修改日历选择样式。
+- 功能： 添加“全部”类别。
+- 修复： 修复打开日历应用程序时的问题。
+- 功能： 添加版本检查功能。
+- 功能： 添加打开主窗口菜单。
+
 ## [v2.0.0](https://github.com/jaywcjlove/daybar/releases/tag/v2.0.0)
 
 - Feat: Added todo feature  
