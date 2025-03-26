@@ -5,6 +5,22 @@ Changelog
 <img alt="DayBar AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.2.0](https://github.com/jaywcjlove/daybar/releases/tag/v2.2.0)
+
+1. Feat: Add calendar panel size setting.
+2. Perf: Optimize authorization handling.
+3. Fix: Improve receipt existence validation.
+4. Fix: Fix issue where data did not refresh on first load.
+5. Chore: Optimize default app menu.
+
+---
+
+1. 新增：新增日历面板尺寸设置。
+2. 性能优化：优化授权处理流程。
+3. 修复：优化收据存在性验证。
+4. 修复：修复首次加载时数据未刷新的问题。
+5. 优化：优化默认应用菜单。
+
 ## [v2.1.0](https://github.com/jaywcjlove/daybar/releases/tag/v2.1.0)
 
 - Fix: Fix the issue of opening the Calendar app.
