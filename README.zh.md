@@ -12,7 +12,7 @@
   </h1>
   <!--rehype:style=border: 0;-->
   <p>
-    <a href="./README.zh.md">简体中文</a> • 
+    <a href="./README.md">English</a> • 
     <a target="_blank" href="https://github.com/jaywcjlove/daybar/issues/new?template=bug_report_cn.yml">联系&支持</a> • 
     <a href="https://github.com/jaywcjlove/daybar/releases">变更日志</a>
   </p>
