@@ -14,7 +14,7 @@
   <p>
     <a href="./README.md">English</a> • 
     <a target="_blank" href="https://github.com/jaywcjlove/daybar/issues/new?template=bug_report_cn.yml">联系&支持</a> • 
-    <a href="https://github.com/jaywcjlove/daybar/releases">变更日志</a>
+    <a href="./CHANGELOG.zh.md">更新日志</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/daybar/6739052447" title="DayBar for macOS">
