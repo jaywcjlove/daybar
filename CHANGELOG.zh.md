@@ -10,6 +10,12 @@
 <img alt="DayBar AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.4.0](https://github.com/jaywcjlove/daybar/releases/tag/v2.4.0)
+
+1. 修复：修复由时区引起的时间显示错误。
+2. 修复：修复状态栏菜单显示问题。
+3. 功能：添加批量任务复制功能。
+
 ## [v2.3.0](https://github.com/jaywcjlove/daybar/releases/tag/v2.3.0)
 
 1. 修复：解决周数显示界面的问题

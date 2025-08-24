@@ -10,6 +10,12 @@ Changelog
 <img alt="DayBar AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.4.0](https://github.com/jaywcjlove/daybar/releases/tag/v2.4.0)
+
+1. fix: Fix time display error caused by timezone.
+2. fix: Fix status bar menu display issue.
+3. feat: Add batch task duplication feature.
+
 ## [v2.3.0](https://github.com/jaywcjlove/daybar/releases/tag/v2.3.0)
 
 1. fix: Resolve issue with week number display UI
