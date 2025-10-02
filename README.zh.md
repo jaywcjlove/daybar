@@ -23,10 +23,9 @@
   </p>
 </div>
 
-![DayBar 1](./assets/screenshots-1.jpg)
 ![DayBar 2](./assets/screenshots-2.jpg)
-![DayBar 3](./assets/screenshots-3.jpg)
-![DayBar 4](./assets/screenshots-4.jpg)
+
+![DayBar 1](./assets/screenshots-1.jpg)
 
 DayBar 是一款在菜单栏显示本地日期和提醒事件的应用。点击菜单栏中的 DayBar，即可查看日历、日历事件和提醒事项，并支持与 Apple 日历同步。它将日历和提醒功能整合到状态栏菜单，方便管理和查看，同时让提醒事项呈现为简洁美观的待办事项。
 
