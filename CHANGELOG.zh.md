@@ -10,6 +10,14 @@
 <img alt="DayBar AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.0.0](https://github.com/jaywcjlove/daybar/releases/tag/v3.0.0)
+
+1. feat: 添加对 macOS 26 的支持。
+2. perf: 优化列表渲染性能。
+3. ui: 优化日历事件面板。
+4. fix: 修复在 macOS 26 中日历打开问题。
+5. fix: 修复在 macOS 26 中窗口导致应用崩溃的问题。
+
 ## [v2.4.0](https://github.com/jaywcjlove/daybar/releases/tag/v2.4.0)
 
 1. 修复：修复由时区引起的时间显示错误。
