@@ -23,9 +23,11 @@
   </p>
 </div>
 
+![DayBar 1](./assets/screenshots-1.jpg)
+
 ![DayBar 2](./assets/screenshots-2.jpg)
 
-![DayBar 1](./assets/screenshots-1.jpg)
+![DayBar 3](./assets/screenshots-3.jpg)
 
 DayBar is an application that displays the local date and reminder events in the menu bar. Click on DayBar in the menu bar to view the calendar, calendar events, and reminders, and it supports synchronization with Apple Calendar. It integrates calendar and reminder functions into the status bar menu for easy management and viewing, while turning reminders into simple and beautiful to-do items.
 

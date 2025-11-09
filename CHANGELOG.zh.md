@@ -10,6 +10,11 @@
 <img alt="DayBar AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.2.0](https://github.com/jaywcjlove/daybar/releases/tag/v3.2.0)
+
+1. feat: 新增任务分类颜色设置
+2. style: 优化标题栏编辑标题的样式
+
 ## [v3.1.0](https://github.com/jaywcjlove/daybar/releases/tag/v3.1.0)
 
 1. fix: 修复自定义时间显示问题
