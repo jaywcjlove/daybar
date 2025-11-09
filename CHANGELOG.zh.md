@@ -10,6 +10,10 @@
 <img alt="DayBar AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.1.0](https://github.com/jaywcjlove/daybar/releases/tag/v3.1.0)
+
+1. fix: 修复自定义时间显示问题
+
 ## [v3.0.0](https://github.com/jaywcjlove/daybar/releases/tag/v3.0.0)
 
 1. feat: 添加对 macOS 26 的支持。

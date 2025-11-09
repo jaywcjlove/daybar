@@ -10,6 +10,10 @@ Changelog
 <img alt="DayBar AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.1.0](https://github.com/jaywcjlove/daybar/releases/tag/v3.1.0)
+
+1. fix: Fix issue with custom time display.
+
 ## [v3.0.0](https://github.com/jaywcjlove/daybar/releases/tag/v3.0.0)
 
 1. feat: add support for macOS 26.
