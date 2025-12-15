@@ -10,6 +10,12 @@ Changelog
 <img alt="DayBar AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.3.0](https://github.com/jaywcjlove/daybar/releases/tag/v3.3.0)
+
+1. feat: add sidebar menu sorting.
+2. perf: improve delete confirmation prompt.
+3. perf: improve sidebar menu name editing.
+
 ## [v3.2.0](https://github.com/jaywcjlove/daybar/releases/tag/v3.2.0)
 
 1. feat: add color settings for task categories.

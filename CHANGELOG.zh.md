@@ -10,6 +10,12 @@
 <img alt="DayBar AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.3.0](https://github.com/jaywcjlove/daybar/releases/tag/v3.3.0)
+
+1. feat: 新增侧边栏菜单排序
+2. perf: 优化删除确认提示
+3. perf: 优化侧边栏菜单名称编辑
+
 ## [v3.2.0](https://github.com/jaywcjlove/daybar/releases/tag/v3.2.0)
 
 1. feat: 新增任务分类颜色设置
