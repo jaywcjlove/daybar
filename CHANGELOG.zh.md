@@ -10,6 +10,12 @@
 <img alt="DayBar AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.4.0](https://github.com/jaywcjlove/daybar/releases/tag/v3.4.0)
+
+1. feat: 农历显示设置不再锁定。
+2. fix: 修复国际化显示错误。
+3. fix: 解决付费解锁验证错误的问题。
+
 ## [v3.3.0](https://github.com/jaywcjlove/daybar/releases/tag/v3.3.0)
 
 1. feat: 新增侧边栏菜单排序

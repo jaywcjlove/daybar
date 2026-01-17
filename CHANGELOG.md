@@ -10,6 +10,12 @@ Changelog
 <img alt="DayBar AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.4.0](https://github.com/jaywcjlove/daybar/releases/tag/v3.4.0)
+
+1. feat: Lunar calendar display setting is no longer locked.
+2. fix: Fix internationalization display error.
+3. fix: Resolve issue with paid unlock verification error.
+
 ## [v3.3.0](https://github.com/jaywcjlove/daybar/releases/tag/v3.3.0)
 
 1. feat: add sidebar menu sorting.
