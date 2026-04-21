@@ -6,7 +6,7 @@
 Changelog
 ===
 
-<a target="_blank" href="https://apps.apple.com/app/daybar/6739052447" title="DayBar for macOS">
+<a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6476924627" title="DayBar for macOS">
 <img alt="DayBar AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
