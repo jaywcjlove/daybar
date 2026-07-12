@@ -42,7 +42,7 @@ jobs:
           favicon: assets/logo.png
           logo: ./assets/logo.png
           openSource: https://github.com/jaywcjlove/daybar
-          homepage: https://wangchujiang.com/zipora/
+          homepage: https://wangchujiang.com/daybar/
           tocs: false
           element: 
             wrapper: style=max-width:720px;
