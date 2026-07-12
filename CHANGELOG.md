@@ -10,6 +10,12 @@ Changelog
 <img alt="DayBar AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v4.0.0](https://github.com/jaywcjlove/daybar/releases/tag/v4.0.0)
+
+1. perf: Refactor calendar display to improve performance
+2. feat: Add multi-language localization support
+3. fix: Fix status bar menu anchoring and adaptive calendar height
+
 ## [v3.4.0](https://github.com/jaywcjlove/daybar/releases/tag/v3.4.0)
 
 1. feat: Lunar calendar display setting is no longer locked.

@@ -10,6 +10,12 @@
 <img alt="DayBar AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v4.0.0](https://github.com/jaywcjlove/daybar/releases/tag/v4.0.0)
+
+1. 优化：重构日历展示优化性能
+2. 新增：新增多个语言本地化
+3. 修复：修正状态栏菜单锚定位置和日历自适应高度
+
 ## [v3.4.0](https://github.com/jaywcjlove/daybar/releases/tag/v3.4.0)
 
 1. feat: 农历显示设置不再锁定。
