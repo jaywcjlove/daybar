@@ -10,6 +10,14 @@
 <img alt="DayBar AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v4.1.0](https://github.com/jaywcjlove/daybar/releases/tag/v4.1.0)
+
+1. 新增：为菜单栏增加更多日期格式可选样式
+2. 修复：简化状态栏菜单，修复指令本地化翻译问题
+3. 修复：通过可靠布局几何对齐状态栏菜单，并补充点击兜底逻辑
+4. 修复：将星期文本迁移至DayBarCalendar包的资源目录
+5. 修复：在macOS 27及以上系统强制显示菜单项SF符号图标
+
 ## [v4.0.0](https://github.com/jaywcjlove/daybar/releases/tag/v4.0.0)
 
 1. 优化：重构日历展示优化性能

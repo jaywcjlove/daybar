@@ -10,6 +10,14 @@ Changelog
 <img alt="DayBar AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v4.1.0](https://github.com/jaywcjlove/daybar/releases/tag/v4.1.0)
+
+1. feat: add more date format options for the menu bar. 
+2. fix: Simplify status bar menu and fix Commands localization. 
+3. fix: Align status bar menu using trusted geometry and click fallback. 
+4. fix: Move weekday strings into DayBarCalendar package catalog. 
+5. fix: explicitly show NSMenuItem symbol images on macOS 27+. 
+
 ## [v4.0.0](https://github.com/jaywcjlove/daybar/releases/tag/v4.0.0)
 
 1. perf: Refactor calendar display to improve performance
