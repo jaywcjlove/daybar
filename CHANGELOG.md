@@ -10,6 +10,13 @@ Changelog
 <img alt="DayBar AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v4.2.0](https://github.com/jaywcjlove/daybar/releases/tag/v4.2.0)
+
+1. fix: Fix jitter on appearance of menu bar button icons.
+2. fix: Fix app icon main thread warning.
+3. chore: Update App icon.
+4. perf: reduce long-running memory pressure for multi-day sessions
+
 ## [v4.1.0](https://github.com/jaywcjlove/daybar/releases/tag/v4.1.0)
 
 1. feat: add more date format options for the menu bar. 
